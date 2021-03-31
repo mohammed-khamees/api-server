@@ -1,6 +1,6 @@
 # api-server
 
-[heroku](https://khamees-api-server.herokuapp.com/api)
+[heroku](https://khamees-api-server.herokuapp.com/api/v1/clothes)
 
 [PR](https://github.com/mohammed-khamees/api-server/pull/1)
 
